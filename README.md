@@ -21,12 +21,10 @@ I'm passionate about building clean, useful web experiences with modern technolo
 
 
 ## 📦 Featured Project
-[First E-commerce Website (College NEA)](https://github.com/jackmills05/jackmills05.github.io)  
+[First E-commerce Website (College NEA)](https://github.com/jackmills05/)  
 My first full e-commerce website, built as part of my college NEA. Demonstrates product listings, cart functionality, and checkout flow.  
-[Live Demo](https://jackmills05.github.io/jackmills05.github.io/)
 [E-commerce Demo (Work in Progress)](https://github.com/jackmills05/e-commerce-website)  
 A static e-commerce demo showcasing a product grid, shopping cart, and checkout flow using HTML, CSS, and JavaScript.  
-[Live Demo](https://jackmills05.github.io)
 [Flask Website](https://github.com/jackmills05/Flask-Website)  
 A web application built with Flask, demonstrating backend functionality, routing, and integration with HTML/CSS templates.  
 ## 🌱 Currently Learning
