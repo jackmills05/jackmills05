@@ -13,14 +13,20 @@ I'm passionate about building clean, useful web experiences with modern technolo
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 
+
 ## 📦 Featured Project
-[E-commerce Demo](https://github.com/jackmills05/e-commerce-demo)  
+[First E-commerce Website (College NEA)](https://github.com/jackmills05/jackmills05.github.io)  
+My first full e-commerce website, built as part of my college NEA. Demonstrates product listings, cart functionality, and checkout flow.  
+[Live Demo](https://jackmills05.github.io/jackmills05.github.io/)
+[E-commerce Demo (Work in Progress)](https://github.com/jackmills05/e-commerce-website)  
 A static e-commerce demo showcasing a product grid, shopping cart, and checkout flow using HTML, CSS, and JavaScript.  
 [Live Demo](https://jackmills05.github.io)
-
 ## 🌱 Currently Learning
 - React and Next.js
 - Performance optimization
