@@ -27,6 +27,8 @@ My first full e-commerce website, built as part of my college NEA. Demonstrates 
 [E-commerce Demo (Work in Progress)](https://github.com/jackmills05/e-commerce-website)  
 A static e-commerce demo showcasing a product grid, shopping cart, and checkout flow using HTML, CSS, and JavaScript.  
 [Live Demo](https://jackmills05.github.io)
+[Flask Website](https://github.com/jackmills05/Flask-Website)  
+A web application built with Flask, demonstrating backend functionality, routing, and integration with HTML/CSS templates.  
 ## 🌱 Currently Learning
 - React and Next.js
 - Performance optimization
